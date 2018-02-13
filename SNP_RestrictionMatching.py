@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ##important!! this is for restriction sites that are 6bp long
-##Change the coordinate length in row 26 if it's any different
+##Change the coordinate length in row 29 if it's any different
 import os, sys, re
 from optparse import OptionParser
 
